@@ -1,4 +1,7 @@
-### Hi there 👋
+
+# Hi! This is victxrms´ profile 👨🏻‍💻
+### Studying Computer Engineering at UCA university in Cadiz 👨🏻‍🎓
+### Learning C, C++ and LaTeX among others languages 🌍
 
 <!--
 **victxrms/victxrms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,15 +1,13 @@
-## Hey there, I'm Victor 👋
+## Hello there 👋
 
-A Computer Engineering student by day ☼ and frontend developer by night ☾
+**A Computer Engineer by day ☀️ and a Scout by night 🌙**
 
-Based in Cádiz, Spain — currently building **Vivac**, a camping website.
+Computer Technician at **knowmad mood**;
+Coordinator of Digital Transformation at **Scouts de España**;
 
----
+- ⚙️ I use daily: `.java` `.sql` `.js` `.html` `.css` `.py` `.c`
+- 🏕️ Volunteer educator at **Grupo Scout Prometeo**, Jerez de la Frontera
+- 🚀 Building: **Biblioteca Scout** and other digitalization projects
+- 💬 Talk to me about **development, scouting, digital transformation**
 
-My daily tools: `.html` `.css` `.js` `.py` `.java` `.c` `.cpp`
-
-Exploring: `frontend` · `blockchain` · `new things every day`
-
----
-
-[Instagram](https://instagram.com/victxrms) · [LinkedIn](https://linkedin.com/in/victormorenosola)
+[LinkedIn](https://linkedin.com/in/victormorenosola)
